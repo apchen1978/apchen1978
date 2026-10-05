@@ -33,8 +33,8 @@ Can cash absorb the commitment?
 
 #### How to read this account
 
-Most repos here are **synthetic or demo artifacts**, and each one labels itself:
-`synthetic` · `demo` · `method demonstration` · `not market-validated` · `no real market signal yet`.
+Most repos here are **demo artifacts**, and each one labels itself:
+`demo` · `method demonstration` · `not market-validated` · `no real market signal yet`.
 
 That labelling is deliberate. You can see exactly where each artifact stands — including where it stops.
 Nothing here claims revenue, ROI, or client outcomes that were not produced.
